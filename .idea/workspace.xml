@@ -2,10 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0604967f-6f1a-4442-8521-cf6adeaa611c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coin-dispenser.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/app/coin_dispenser/business_logic/NoteHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/coin_dispenser/business_logic/NoteHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/app/coin_dispenser/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/app/coin_dispenser/server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/app/coin_dispenser/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/app/coin_dispenser/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/app/coin_dispenser/business_logic/LoginHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/app/coin_dispenser/business_logic/LoginHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/app/coin_dispenser/business_logic/NoteHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/app/coin_dispenser/business_logic/NoteHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/app/coin_dispenser/domain/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/app/coin_dispenser/domain/Command.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/app/coin_dispenser/domain/Currency.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/app/coin_dispenser/domain/Currency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/app/coin_dispenser/domain/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/app/coin_dispenser/domain/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/app/coin_dispenser/domain/Note.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/app/coin_dispenser/domain/Note.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/app/coin_dispenser/server/Server$ServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/app/coin_dispenser/server/Server$ServerHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/app/coin_dispenser/server/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/app/coin_dispenser/server/Server.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,25 +26,28 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Enum" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1X2Jt9Ht2NmYIp4UeKfCdTUNoqA" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="-2" />
+    <option name="width" value="1853" />
+    <option name="height" value="1082" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580236303391" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580329358845" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -132,18 +148,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0604967f-6f1a-4442-8521-cf6adeaa611c" name="Default Changelist" comment="" />
-      <created>1580229989593</created>
+      <changelist id="7916025e-7085-4a7c-a131-ad5279f59972" name="Default Changelist" comment="" />
+      <created>1580305704205</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1580229989593</updated>
-      <workItem from="1580229992941" duration="5852000" />
-      <workItem from="1580236407479" duration="616000" />
+      <updated>1580305704205</updated>
+      <workItem from="1580305707190" duration="10437000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6468000" />
+    <option name="totallyTimeSpent" value="10437000" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -164,61 +179,30 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/app/coin_dispenser/server/Server.java</url>
-          <line>98</line>
+          <line>51</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/app/coin_dispenser/business_logic/NoteHandler.java</url>
-          <line>15</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/coin_dispenser/server/Server.java</url>
+          <line>66</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/app/coin_dispenser/business_logic/NoteHandler.java</url>
-          <line>33</line>
+          <line>40</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/app/coin_dispenser/business_logic/NoteHandler.java</url>
-          <line>41</line>
+          <line>45</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/app/coin_dispenser/business_logic/NoteHandler.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/app/coin_dispenser/business_logic/NoteHandler.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/app/coin_dispenser/business_logic/NoteHandler.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/app/coin_dispenser/business_logic/NoteHandler.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="10" />
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/coin_dispenser/server/Server.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

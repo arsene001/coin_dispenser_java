@@ -13,7 +13,6 @@ import java.io.PrintWriter;
 import java.math.BigDecimal;
 import java.net.ServerSocket;
 import java.net.Socket;
-import java.util.Map;
 
 public class Server {
 
@@ -65,7 +64,7 @@ public class Server {
 
                         Note note = new Note(amountDue, amountCaptured);
 
-                        Map<BigDecimal, Integer> results = noteHandler.calculateDenominationBreakDown(note);
+                        String results = noteHandler.calculateDenominationBreakDown(note);
 
                         writer.println(results);
                     } else {
